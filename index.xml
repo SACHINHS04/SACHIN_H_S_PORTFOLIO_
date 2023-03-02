@@ -22,6 +22,15 @@ I have a solid understanding of data visualization and data wrangling techniques
     </item>
     
     <item>
+      <title>An Exploratory data Analysis Application.</title>
+      <link>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-6/</guid>
+      <description>The &amp;ldquo;Exploratory Data Analysis (EDA) App&amp;rdquo; is a Streamlit application that utilizes the pandas profiling library to quickly and easily perform exploratory data analysis on any dataset. The app allows users to upload a CSV file and generate a comprehensive report of the dataset, including summary statistics, missing values, correlation, and other relevant information. The pandas profiling library is a powerful tool that automates the process of performing EDA, saving users time and effort.</description>
+    </item>
+    
+    <item>
       <title>An Image Classification App</title>
       <link>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -31,30 +40,12 @@ I have a solid understanding of data visualization and data wrangling techniques
     </item>
     
     <item>
-      <title>An Image Generator App using OpenAI.</title>
-      <link>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-12/</guid>
-      <description>Introducing Streamlit app, powered by the cutting-edge OpenAI API. With this app, you can generate unique and stunning images based on your own prompts. Simply enter your desired text and our app will use the power of OpenAI&amp;rsquo;s GPT-3 model to generate an image that matches your input. The generated image is completely unique and tailored to your text prompt, making it a perfect tool for creative inspiration or digital art.</description>
-    </item>
-    
-    <item>
       <title>An ML App</title>
       <link>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-9/</guid>
       <description>The &amp;ldquo;ML App&amp;rdquo; is a Streamlit-based application that allows users to perform end-to-end machine learning tasks with minimal coding. The app takes in user data and guides them through the process of selecting and training a model, evaluating its performance, and making predictions. Users can select from a variety of pre-built models, including popular algorithms such as Random Forest, XGBoost and Neural Network. The app has a built-in evaluation metric such as accuracy, which allows users to easily compare different models and select the best one.</description>
-    </item>
-    
-    <item>
-      <title>An SQL Queries App</title>
-      <link>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-11/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-11/</guid>
-      <description>The &amp;ldquo;SQL Queries App&amp;rdquo; is a Streamlit application that utilizes the OpenAI API to provide users with a natural language interface for querying databases. The app allows users to input natural language questions, such as &amp;ldquo;What are the total sales for each product category?&amp;rdquo; and the app will generate the corresponding SQL query to retrieve the desired information. The OpenAI API uses advanced natural language processing techniques to understand the user&amp;rsquo;s question and generate the appropriate SQL query.</description>
     </item>
     
     <item>
@@ -95,15 +86,6 @@ I have a solid understanding of data visualization and data wrangling techniques
     </item>
     
     <item>
-      <title>Exploratory data Analysis Application.</title>
-      <link>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-6/</guid>
-      <description>The &amp;ldquo;Exploratory Data Analysis (EDA) App&amp;rdquo; is a Streamlit application that utilizes the pandas profiling library to quickly and easily perform exploratory data analysis on any dataset. The app allows users to upload a CSV file and generate a comprehensive report of the dataset, including summary statistics, missing values, correlation, and other relevant information. The pandas profiling library is a powerful tool that automates the process of performing EDA, saving users time and effort.</description>
-    </item>
-    
-    <item>
       <title>Feature Engineering App.</title>
       <link>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -119,6 +101,15 @@ I have a solid understanding of data visualization and data wrangling techniques
       
       <guid>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-10/</guid>
       <description>The &amp;ldquo;Grammar Correction and Suggestion App&amp;rdquo; is a Streamlit application that utilizes the power of ChatGPT and the OpenAI API to provide users with real-time grammar correction and suggestions for their written text. The app allows users to input any type of written text, including emails, articles, and social media posts, and quickly receive feedback on grammar errors, punctuation mistakes, and other language issues. Additionally, the app offers suggestions for improving the overall clarity and readability of the text.</description>
+    </item>
+    
+    <item>
+      <title>Image Generator App using OpenAI.</title>
+      <link>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-12/</guid>
+      <description>Introducing Streamlit app, powered by the cutting-edge OpenAI API. With this app, you can generate unique and stunning images based on your own prompts. Simply enter your desired text and our app will use the power of OpenAI&amp;rsquo;s GPT-3 model to generate an image that matches your input. The generated image is completely unique and tailored to your text prompt, making it a perfect tool for creative inspiration or digital art.</description>
     </item>
     
     <item>
@@ -146,6 +137,15 @@ I have a solid understanding of data visualization and data wrangling techniques
       
       <guid>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-2/</guid>
       <description>The &amp;ldquo;Salary Prediction App&amp;rdquo; is a Streamlit application that utilizes the Multiple Linear Regression algorithm to predict an individual&amp;rsquo;s salary based on various features such as years of experience, education level, and job type. The app allows users to input the relevant information and the app will predict the expected salary. The Multiple Linear Regression model is trained on a synthetic dataset of employee information, which allows it to make accurate predictions for new data points.</description>
+    </item>
+    
+    <item>
+      <title>SQL Queries App</title>
+      <link>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sachinhs04.github.io/SACHIN_H_S_PORTFOLIO_/post/project-11/</guid>
+      <description>The &amp;ldquo;SQL Queries App&amp;rdquo; is a Streamlit application that utilizes the OpenAI API to provide users with a natural language interface for querying databases. The app allows users to input natural language questions, such as &amp;ldquo;What are the total sales for each product category?&amp;rdquo; and the app will generate the corresponding SQL query to retrieve the desired information. The OpenAI API uses advanced natural language processing techniques to understand the user&amp;rsquo;s question and generate the appropriate SQL query.</description>
     </item>
     
   </channel>
